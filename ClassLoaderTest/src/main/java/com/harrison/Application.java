@@ -9,6 +9,11 @@ import org.apache.commons.io.monitor.FileAlterationObserver;
 
 import java.io.File;
 
+/**
+ * 应用程序类
+ * @author harrison
+ * @date 2020-08-29 11:41:10
+ */
 public class Application extends FileAlterationListenerAdaptor {
 
     public static Application application;
